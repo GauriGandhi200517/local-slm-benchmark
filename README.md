@@ -238,7 +238,7 @@ local-slm-benchmark/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/local-slm-benchmark
+git clone https://github.com/GauriGandhi200517/local-slm-benchmark
 cd local-slm-benchmark
 
 # 2. Create virtual environment
